@@ -3,6 +3,9 @@
 
     1. Phương thức bind sẽ trả về một hàm mới
     2. Có thể nhận các đối số như hàm ban đầu
+    3. Không thực hiện gọi hàm
+    4. Nếu bind kèm `arg1, arg2 ...` thì các đối số này
+    sẽ được ưu tiên hơn
 */ 
 
 
