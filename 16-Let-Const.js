@@ -14,5 +14,5 @@
 
     Sử dụng:
         Var và Let khi cần gán lại biến
-        Const khi ko cần gán lại biết
+        Const khi ko cần gán lại biến
 */ 
