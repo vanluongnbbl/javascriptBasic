@@ -11,7 +11,6 @@
         Var/Let có thể gán lại 
 
     Code block: if else, loop, {}, ...
-    Var có hỗ trợ hosting, let và const thì ko
 
     Sử dụng:
         Var và Let khi cần gán lại biến
